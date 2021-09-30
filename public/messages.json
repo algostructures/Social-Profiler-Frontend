@@ -1,0 +1,67 @@
+[
+  {
+    "UUID": "1",
+    "messages": [
+      {
+        "title": "Hi",
+        "time": "12:00 PM IST",
+        "message": "Hey it's nice to meet you.",
+        "UUID": "1"
+      },
+
+      {
+        "title": "Hi",
+        "time": "12:00 PM IST",
+        "message": "Hey it's nice to meet you.",
+        "UUID": "self"
+      },
+
+      {
+        "title": "Hi",
+        "time": "12:00 PM IST",
+        "message": "Hey it's nice to meet you.",
+        "UUID": "1"
+      },
+
+      {
+        "title": "Hi",
+        "time": "12:00 PM IST",
+        "message": "Hey it's nice to meet you.",
+        "UUID": "self"
+      }
+    ]
+  },
+
+  {
+    "UUID": "2",
+    "messages": [
+      {
+        "title": "Hi",
+        "time": "12:00 PM IST",
+        "message": "Hey it's nice to meet you.",
+        "UUID": "2"
+      },
+
+      {
+        "title": "Hi",
+        "time": "12:00 PM IST",
+        "message": "Hey it's nice to meet you.",
+        "UUID": "self"
+      },
+
+      {
+        "title": "Hi",
+        "time": "12:00 PM IST",
+        "message": "Hey it's nice to meet you.",
+        "UUID": "2"
+      },
+
+      {
+        "title": "Hi",
+        "time": "12:00 PM IST",
+        "message": "Hey it's nice to meet you.",
+        "UUID": "self"
+      }
+    ]
+  }
+]
