@@ -6,7 +6,7 @@ export default function Inbox() {
   return (
     <div>
       {conversations.map((conversation) => (
-        <Conversation messages={conversation.messages} />
+        <Conversation conversation={conversation} />
       ))}
     </div>
   );

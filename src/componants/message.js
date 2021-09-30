@@ -31,13 +31,13 @@ export default function Message(props) {
     <Card className={classes.root}>
       <CardContent>
         <Typography variant="h5" component="h2">
-          {props.messages.title}
+          {props.message.title}
         </Typography>
         <Typography className={classes.pos} color="textSecondary">
-          {props.messages.time}
+          {props.message.time}
         </Typography>
         <Typography variant="body2" component="p">
-          {props.messages.message}
+          {props.message.message}
         </Typography>
       </CardContent>
     </Card>
