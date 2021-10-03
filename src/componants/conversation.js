@@ -17,7 +17,7 @@ export default function Conversation(props) {
       <Card onClick={toggleOpen}>
         <CardContent>
           <Typography variant="h5" component="h2">
-            {props.conversation["UUID"]}
+            {props.conversation["name"]}
           </Typography>
         </CardContent>
       </Card>
